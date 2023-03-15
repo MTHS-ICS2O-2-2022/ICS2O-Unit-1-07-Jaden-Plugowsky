@@ -1,0 +1,29 @@
+/* Created by: Jaden Plugowsky
+* Created on: March 2023
+* This file contains the CSS for index2.html
+*/
+
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+a {
+  display: block;
+  margin-left: 50.1%;
+  margin-top: 50px;
+}
+
+.mdl-layout__header-row {
+  justify-content: center;
+}
+
+#buttonTwo {
+  margin-left: 46.8%;
+}
+
+#buttonThree {
+  margin-left: 45.1%;
+}
